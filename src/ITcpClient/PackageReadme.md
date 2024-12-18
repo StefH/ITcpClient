@@ -3,9 +3,6 @@ This project uses source generation to generate an `ITcpClient` interface and `T
 
 All the methods and properties from the `TcpClient` are replicated to `ITcpClient`.
 
-## NuGet
-[![NuGet Badge](https://img.shields.io/nuget/v/ITcpClient)](https://www.nuget.org/packages/ITcpClient)
-
 ## Usage
 ``` c#
 using System.Linq;
